@@ -1,2 +1,7 @@
-Python 3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)] on win32
-Enter "help" below or click "Help" above for more information.
+# Mini Bank Management System 
+## Overview 
+A Python desktop application built using Tkinter for basic accont management,including creating acconts,making deposits,withdrawing funds, and viewing balances.
+## How to Run 
+Run the main script from your :
+
+
